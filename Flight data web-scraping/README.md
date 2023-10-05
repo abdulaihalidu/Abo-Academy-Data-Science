@@ -1,4 +1,4 @@
-#### The project description is as folows
+#### The project description is as folow:
 
 Mini Project 1 – Where do I fly next? 
  
